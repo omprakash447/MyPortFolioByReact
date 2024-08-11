@@ -1,0 +1,38 @@
+{
+    "projects": [{
+            "date": "07/10/2023",
+            "title": "HOSPITAL MNG | SYSTEM",
+            "description": "This is a simple project regarding to the HOSPITAL MNG | SYSTEM .Here u can see many type of the functionality regarding to the HOSPITAL.",
+            "url": "https://omprakash447.github.io/SOM-HOSPITAL-SOA",
+            "imgsrc": "https://images.squarespace-cdn.com/content/v1/579e1b81ff7c50691dbe3a81/1625295308754-43LU2JAH7799FOO9R2HP/DJI_0766.JPG?format=2500w"
+        },
+        {
+            "date": "05/12/2023",
+            "title": "Wheather Forcasting",
+            "description": "This is a simple project regarding to the Wheather Forcasting .Here u can see the wheather of any loaction with the current location.",
+            "url": "https://omprakash447.github.io/WheatherApplication/",
+            "imgsrc": "https://cff2.earth.com/uploads/2018/11/13083529/what-is-weather-model-discussion-how-to-use-surface-dew-points-for-weather-forecasting-purposes.jpg"
+        },
+        {
+            "date": "02/8/2024",
+            "title": "Real time chatt App",
+            "description": "This is a simple project regarding to the Real time chatt App .Here u do conversation with the chat mates.",
+            "url": "https://github.com/omprakash447/RealTimeChattApp-React-Firebase-.git",
+            "imgsrc": "https://i.imgur.com/IGkQ8AL.png"
+        },
+        {
+            "date": "02/5/2024",
+            "title": "Real time News APP",
+            "description": "This is a simple project regarding to the Real time News App .Here u can see the current news with the previous news .",
+            "url": "https://github.com/omprakash447/React-NewsApp-.git",
+            "imgsrc": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyd91OUTsCiAYpLQhcb7XXpDQrkq1LlrVX_wNutWrdJ5bW2aRR81Wv6tycd_acke3iyTx_MF-RZHRMD0_xM6nSZY68R6gZy-QkYXlm72-jheN2SBMv_QxpUMNjPHRxhEhO2YhDJpOyuMrA/s16000/gnews-boxed.jpg"
+        },
+        {
+            "date": "02/6/2024",
+            "title": "Tech star website",
+            "description": "This is a simple project regarding to the tech star website  .",
+            "url": "https//hospital",
+            "imgsrc": "https://www.mwa.my/2019/wp-content/uploads/2019/11/10539_homepage_screenshot_2019-12-01%2015:21:07.jpg"
+        }
+    ]
+}
